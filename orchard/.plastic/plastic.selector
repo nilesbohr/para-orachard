@@ -1,0 +1,4 @@
+repository "orchard-workspace@orchar@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
